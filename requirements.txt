@@ -16,7 +16,7 @@ djangorestframework-simplejwt==5.2.2 ##Simple JWT is a JSON Web Token authentica
 
 pytz==2022.6  ##pytz brings the Olson tz database into Python. This library allows accurate and cross platform timezone calculations using Python 2.4 or higher
 
-sqlparse==0.4.3  ##sqlparse is a non-validating SQL parser for Python. It provides support for parsing, splitting and formatting SQL statements.
+sqlparse==0.4.4  ##sqlparse is a non-validating SQL parser for Python. It provides support for parsing, splitting and formatting SQL statements.
 
 tzdata==2022.6  ##This is a Python package containing zic-compiled binaries for the IANA time zone database. It is intended to be a fallback for systems that do not have system time zone data installed (or don’t have it installed in a standard location), as a part of PEP 615
 
