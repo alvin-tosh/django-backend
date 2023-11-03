@@ -20,7 +20,7 @@ sqlparse==0.4.3  ##sqlparse is a non-validating SQL parser for Python. It provid
 
 tzdata==2022.6  ##This is a Python package containing zic-compiled binaries for the IANA time zone database. It is intended to be a fallback for systems that do not have system time zone data installed (or don’t have it installed in a standard location), as a part of PEP 615
 
-Pillow==9.3.0  ##The Python Imaging Library adds image processing capabilities to your Python interpreter.
+Pillow==10.0.0  ##The Python Imaging Library adds image processing capabilities to your Python interpreter.
 
 psycopg2  ##the PostgreSQL database adapter for Python
 
